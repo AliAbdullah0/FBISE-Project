@@ -2,7 +2,7 @@ import React from 'react'
 import { useRef, useEffect, useState } from 'react'
 import * as mobilenet from '@tensorflow-models/mobilenet'
 import * as tf from '@tensorflow/tfjs'
-import Sidebar from '../Sidebar'
+
 
 
 function ImageRecognition() {
